@@ -7,7 +7,7 @@ My actuarial dissertation focussed on the numerical aspects around the computati
 ## Repository stucture 
 
 
-- A folder named **Thesis_and_Slides** which contains both my actuarial dissertation in a **PDF** format and the slides I presented during my oral defense on the **6 November 2024**.
+- A folder named **Thesis_and_Slides** which contains both my actuarial dissertation in a **PDF** format and the slides I presented as a **beamer** during my oral defense on the **6 November 2024**.
 
 - A folder named **Code** which is composed of subfolder nameds according to the corresponding chapters in my actuarial dissertation
   
@@ -16,6 +16,7 @@ My actuarial dissertation focussed on the numerical aspects around the computati
    * A folder named **Chapter 5 : Presentation of ML and DL methods for XVA computations** which will contain through notebooks **some part of the codes** I used to generate the results in the chapter 5.
    * A folder named **Chapter 6 : Applications of ML and DL methods for XVA computations**  which contains through notebooks **some part of the codes** I used to generate the results in the chapter 6.
    * A folder named **Chapter 7 : Toward methods to hedge CCR** which contains **some parts of the code** I used for the writing of the chapter 7.
+  * A folder named **Annexes-Deep Galerkin** which contains **all the code I used** for the writing of the **annex Deep Galerkin**.
 
 
 - A text file **requirements.txt** which contains all the necessary packages I used for the code development.
